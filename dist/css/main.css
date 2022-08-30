@@ -308,6 +308,8 @@ img {
 #home-b .stats {
   display: grid;
   grid-template-columns: repeat(4, 1fr); }
+  #home-b .stats i {
+    color: #333; }
   #home-b .stats li {
     line-height: 2; }
     #home-b .stats li.stats-title {
